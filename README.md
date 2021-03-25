@@ -1,6 +1,7 @@
 # My digital CV
 
-On github and not github pages? Click [here](https://taidanh.github.io/digital-cv). On GitHub Pages and want to go to my GitHub? Click [here](https://github.com/taidanh).
+On GitHub and not GitHub Pages? Click [here](https://taidanh.github.io/digital-cv). 
+On GitHub Pages and want to go to my GitHub? Click [here](https://github.com/taidanh).
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
