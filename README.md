@@ -36,9 +36,10 @@ This projects was made in collaboration with two other classmates (linked [in th
 The general goal of this project was to explore common technologies that astronomers use, this project in particular focused on taking an image and labeling and numbering the astronomical objects.
 
 #### My contributions
-**Note:** The project layout is not optimal due to creating separate files to show who made what.
 
 My main contribution to the project was all the code in `astronomical_source_detection.ipynb`, which was then built upon by my classmates in `ASTR-119(Hist).ipynb` and `Attemptatec.ipynb`
+
+**Note:** The project layout is not optimal due to creating separate files to show who made what.
 
 #### Usage
 You can run my contribution by downloading the repo and running with `jupyter-notebook astronomical_source_detection.ipynb` once jupyter notebook is installed
