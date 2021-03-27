@@ -15,10 +15,14 @@ More information about the tools and their functionality can be found [in the re
 
 #### Key Technologies
 - The C Programming language
+- Linux
 - Make
+- lldb/gdb
+- valgrind
+- scan-build
 
 #### Goal
-The goal of all of these tools were to support the demands on larger projects two of which were hamming encoder/decoder and Lempel-Ziv 78 data compression.
+The goal of all of these tools were to support the demands on larger projects, two of which were hamming encoder/decoder and Lempel-Ziv 78 data compression.
 
 ---
 
