@@ -16,13 +16,29 @@ More information about the tools and their functionality can be found [in the re
 #### Key Technologies
 - The C Programming language
 - Linux
-- Make
+- Makefiles
 - lldb/gdb
 - valgrind
 - scan-build
 
 #### Goal
 The goal of all of these tools were to support the demands on larger projects, two of which were hamming encoder/decoder and Lempel-Ziv 78 data compression.
+
+---
+
+### [NCurse Sorting Visualizer](https://github.com/taidanh/ncurse-sorting)
+The sorts from [C Tools](https://github.com/taidanh/ctools) were adapted to work with ncurses and there is a harness to use them from the command line.
+
+#### Key Technologies
+- NCurses
+- The C Programming Language
+- Linux
+- Makefiles
+- lldb/gdb
+- valgrind
+
+#### Goal
+The main goal of adding ncurses to these sorts was to help visualize that was happening and it helped my debug where my counters for moves and compares should be.
 
 ---
 
