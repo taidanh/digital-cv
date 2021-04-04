@@ -2,6 +2,9 @@ On GitHub and not GitHub Pages? Click [here](https://taidanh.github.io/digital-c
 
 On GitHub Pages and want to go to my GitHub? Click [here](https://github.com/taidanh).
 
+### Contact Me
+taid100@gmail.com
+
 ## Language and Technology Experience
 
 Python
@@ -80,6 +83,3 @@ The general goal of this project was to explore common technologies that astrono
 My main contribution to the project was all the code in `astronomical_source_detection.ipynb`, which was then built upon by my classmates in `ASTR-119(Hist).ipynb` and `Attemptatec.ipynb`
 
 **Note:** The project layout is not optimal due to creating separate files to show who made what.
-
-#### Usage
-You can run my contribution by downloading the repo and running with `jupyter-notebook astronomical_source_detection.ipynb` once jupyter notebook is installed
