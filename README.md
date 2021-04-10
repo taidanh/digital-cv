@@ -5,7 +5,7 @@ On GitHub Pages and want to go to my GitHub? Click [here](https://github.com/tai
 ### Contact Me
 taid100@gmail.com
 
-## Language and Technology Experience
+# Language and Technology Experience
 
 Python
 - Numpy
@@ -30,7 +30,7 @@ Linux
 MIPS Assembly
 - [Exmaple Assignment](https://github.com/taidanh/mips-asm)
 
-## Projects
+# Projects
 
 ### [C Tools](https://github.com/taidanh/ctools)
 All of these tools were made solely by myself, on linux (Ubuntu), and in class
